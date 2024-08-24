@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e desensenvolvimento de Sistemas.<br>Linguagem principal: Python
+Estudante de Análise e desensenvolvimento de Sistemas.<br>
 
 
 ## 🌐 Socials:
@@ -7,6 +7,10 @@ Estudante de Análise e desensenvolvimento de Sistemas.<br>Linguagem principal: 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brunocorreia7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brunocorreia7&theme=tokyonight&hide_border=false)<br/>
