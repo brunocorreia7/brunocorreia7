@@ -10,6 +10,7 @@ Estudante de Análise e desensenvolvimento de Sistemas.<br>
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=ffffff)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brunocorreia7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
