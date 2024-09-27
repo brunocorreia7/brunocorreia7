@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Estudante de Análise e desensenvolvimento de Sistemas.<br>
 
 
