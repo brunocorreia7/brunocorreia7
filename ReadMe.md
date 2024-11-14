@@ -1,5 +1,6 @@
 #  About Me:
-Estudante de Análise e desensenvolvimento de Sistemas.<br>
+- Desenvolvedor WEb
+- Estudante de Análise e desensenvolvimento de Sistemas.<br>
 
 
 ## 🌐 Socials:
