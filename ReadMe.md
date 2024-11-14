@@ -1,5 +1,5 @@
 #  About Me:
-- Desenvolvedor WEb
+- Desenvolvedor Web
 - Estudante de Análise e desensenvolvimento de Sistemas.<br>
 
 
