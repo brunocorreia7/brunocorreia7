@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-correia-461a76233/) 
 
 ## Projeto em Destaque
-- 📦 [Sistema de Cadastro](https://github.com/brunocorreia7/Sistema-de-Cadastro): Um sistema cadastro de Roupas
+- 📦 [Sistema de Cadastro](https://github.com/brunocorreia7/Sistema-de-Cadastro): Um sistema de cadastro de Roupas
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
