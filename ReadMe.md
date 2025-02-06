@@ -7,8 +7,6 @@
 
 ## Projeto em Destaque
 - 📦 [Sistema de Cadastro](https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja)
-- 🌐 [Meu portfólio](https://brunocorreia7.github.io/)  
-
 
   
 # 💻 Tech Stack:
