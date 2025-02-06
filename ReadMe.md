@@ -1,6 +1,5 @@
 #  About Me:
-- Desenvolvedor de Software
-- Estudante de Análise e desensenvolvimento de Sistemas.<br>
+- Desenvolvedor de Software.<br>
 
 
 ## 🌐 Socials:
