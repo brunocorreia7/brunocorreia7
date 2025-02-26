@@ -3,7 +3,7 @@
 💻 **Desenvolvedor de Software** 
 ---
 
-## 🌐 Social Networks
+## 🌐 REdes Sociais
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bruno-correia-461a76233/" target="_blank">
@@ -13,14 +13,14 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Meus Projetos
 
-- 📦 <a href="https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja">**Registration System**</a>
-- 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**My Portfolio**</a>
+- 📦 <a href="https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja">**Sistema de cadastro de loja**</a>
+- 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**Meu Portfolio**</a>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Minha Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,laravel" height="50"/>
