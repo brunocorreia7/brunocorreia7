@@ -1,37 +1,66 @@
-#  About Me:
-- Desenvolvedor de Software.<br>
+## 👋 Sobre Mim
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-correia-461a76233/) 
-
-
-
-## Projeto em Destaque
-- 📦 [Sistema de Cadastro](https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja)
-- 🌐 [Meu Portfólio](https://github.com/brunocorreia7/meuportifolio)
-
-
-  
-# 💻 Tech Stack:
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=ffffff)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=brunocorreia7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=brunocorreia7&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=brunocorreia7&limit=5&theme=nord&combine_all_yearly_contributions=true)
+💻 **Desenvolvedor de Software** 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=brunocorreia7&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Redes Sociais
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bruno-correia-461a76233/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Projeto em Destaque
+
+- 📦 <a href="https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja">**Sistema de Cadastro**</a>
+- 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**Meu Portfólio**</a>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,laravel" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brunocorreia7&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunocorreia7&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia7&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=brunocorreia7&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributions"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=brunocorreia7&icon=0&color=1" alt="Profile Views"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>✨ Desenvolvido com ❤️ por Bruno Correia ✨</em>
+</p>
