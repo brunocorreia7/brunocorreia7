@@ -1,10 +1,10 @@
-## 👋 Sobre Mim
+## 👋 About Me
 
-💻 **Desenvolvedor de Software** 
+💻 **Software Developer** passionate about technology and web development. Always looking to learn new technologies and improve my skills to create efficient and innovative solutions.
 
 ---
 
-## 🌐 Redes Sociais
+## 🌐 Social Networks
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bruno-correia-461a76233/" target="_blank">
@@ -14,10 +14,10 @@
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Featured Project
 
-- 📦 <a href="https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja">**Sistema de Cadastro**</a>
-- 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**Meu Portfólio**</a>
+- 📦 <a href="https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja">**Registration System**</a>
+- 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**My Portfolio**</a>
 
 ---
 
@@ -59,8 +59,6 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <em>✨ Desenvolvido com ❤️ por Bruno Correia ✨</em>
-</p>
+
+
