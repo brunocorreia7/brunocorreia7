@@ -50,13 +50,6 @@
   <img src="https://github-contributor-stats.vercel.app/api?username=brunocorreia7&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributions"/>
 </p>
 
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=brunocorreia7&icon=0&color=1" alt="Profile Views"/>
-  </a>
-</p>
 
 
 
