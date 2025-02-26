@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-correia-461a76233/) 
-[📧 e-mail](mailto:correiadev7@gmail.com)
+[![Email](https://img.shields.io/badge/E--mail-D14836.svg?logo=gmail&logoColor=white)](mailto:correiadev7@gmail.com)
 
 
 ## Projeto em Destaque
