@@ -3,7 +3,7 @@
 💻 **Desenvolvedor de Software** 
 ---
 
-## 🌐 REdes Sociais
+## 🌐 Redes Sociais
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bruno-correia-461a76233/" target="_blank">
