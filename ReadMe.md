@@ -6,7 +6,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bruno-correia-461a76233/) 
 
 ## Projeto em Destaque
-## Projeto em Destaque
 - 📦 [Sistema de Cadastro](https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja)
 - 🌐 [Meu Portfólio](https://github.com/brunocorreia7/meuportifolio)
 
