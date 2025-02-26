@@ -1,7 +1,6 @@
 ## 👋 About Me
 
-💻 **Software Developer** passionate about technology and web development. Always looking to learn new technologies and improve my skills to create efficient and innovative solutions.
-
+💻 **Desenvolvedor de Software** 
 ---
 
 ## 🌐 Social Networks
