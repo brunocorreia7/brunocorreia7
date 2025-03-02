@@ -23,7 +23,7 @@
 ## 💻 Minha Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,laravel" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,laravel" height="50"/>
 </p>
 
 ---
