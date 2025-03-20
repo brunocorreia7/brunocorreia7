@@ -8,9 +8,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/brunocorreia7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+ <a href="mailto:correiadev7@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá,%20gostaria%20de%20falar%20sobre..." target="_blank">
+    <img src="https://img.shields.io/badge/-Enviar%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  [Enviar email](correiadev7@gmail.com?subject=Contato%20pelo%20GitHub&body=Olá,%20gostaria%20de%20falar%20sobre...)
-
 </p>
 
 ---
