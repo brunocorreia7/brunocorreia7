@@ -17,7 +17,7 @@
 
 ## 🚀 Meus Projetos
 
-- 📦 <a href="https://github.com/brunocorreia7/Sistema-de-Cadastro-Loja">**Sistema de cadastro de loja**</a>
+- 📦 <a href="https://github.com/brunocorreia7/SistemadeCadastroVersao2">**Sistema de cadastro de loja**</a>
 - 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**Meu Portfolio**</a>
 
 ---
