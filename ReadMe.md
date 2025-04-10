@@ -46,13 +46,4 @@
 
 ---
 
-## 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=brunocorreia7&limit=5&theme=nord&combine_all_yearly_contributions=true" alt="Top Contributions"/>
-</p>
-
-
-
-
 
