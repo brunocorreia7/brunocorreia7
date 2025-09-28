@@ -1,8 +1,6 @@
 ## 👨‍💻 Sobre mim  
 
-Desenvolvendo softwares e explorando novas tecnologias.  
-Cursando Análise e Desenvolvimento de Sistemas.  
-
+Gosto de desenvolver softwares e explorar novas tecnologias.
  
 ## 🌐 Redes Sociais e Contato
 
