@@ -1,8 +1,8 @@
 ## 👨‍💻 Sobre mim  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **HTML, CSS, JavaScript, PHP, MySQL e Python**. 
-Tenho experiência em **análise de dados com Excel, VBA e Python**, integrando programação e insights para apoiar a tomada de decisões.  
-Estou sempre em busca de novos desafios, criando projetos que resolvem problemas reais e compartilhando meu aprendizado aqui no GitHub.  
+Desenvolvendo softwares e explorando novas tecnologias.
+Cursando Análise e Desenvolvimento de Sistemas.
+Atualmente estudando frameworks Backend.
  
 ## 🌐 Redes Sociais e Contato
 
