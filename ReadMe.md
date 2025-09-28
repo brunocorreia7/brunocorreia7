@@ -1,8 +1,9 @@
 ## 👨‍💻 Sobre mim  
 
-Desenvolvendo softwares e explorando novas tecnologias.
-Cursando Análise e Desenvolvimento de Sistemas.
+Desenvolvendo softwares e explorando novas tecnologias.  
+Cursando Análise e Desenvolvimento de Sistemas.  
 Atualmente estudando frameworks Backend.
+
  
 ## 🌐 Redes Sociais e Contato
 
