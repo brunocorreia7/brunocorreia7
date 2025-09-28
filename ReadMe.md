@@ -24,7 +24,7 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 ## 💻 Minha Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,python,mysql,git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,sql,git" height="50"/>
 </p>
 
 ---
