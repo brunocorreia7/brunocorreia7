@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim  
 
-Sou **Bruno Correia**, estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **HTML, CSS, JavaScript, PHP, MySQL e Python**.  
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **HTML, CSS, JavaScript, PHP, MySQL e Python**.  
 Atualmente, estudo **Laravel** para me tornar **desenvolvedor Fullstack**.  
 
 Tenho experiência em **análise de dados com Excel, VBA e Python**, integrando programação e insights para apoiar a tomada de decisões.  
