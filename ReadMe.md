@@ -1,11 +1,12 @@
-## 👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim  
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**.  
-Tenho experiência com **HTML, CSS, JavaScript, PHP, MySQL e Python**, e atualmente estou ampliando minhas habilidades com **Laravel**, buscando me tornar um **desenvolvedor Fullstack**.  
+Sou **Bruno Correia**, estudante de **Análise e Desenvolvimento de Sistemas**, com experiência em **HTML, CSS, JavaScript, PHP, MySQL e Python**.  
+Atualmente, estudo **Laravel** para me tornar **desenvolvedor Fullstack**.  
 
-Além de desenvolvimento, também tenho vivência em **análise de dados** utilizando **Excel, VBA e Python**, o que me permite enxergar a tecnologia tanto pelo lado da **programação** quanto pela **análise de informações**.  
+Tenho experiência em **análise de dados com Excel, VBA e Python**, integrando programação e insights para apoiar a tomada de decisões.  
 
 💡 Estou sempre em busca de novos desafios, criando projetos que resolvem problemas reais e compartilhando meu aprendizado aqui no GitHub.  
+ 
 
 
 ## 🌐 Redes Sociais e Contato
