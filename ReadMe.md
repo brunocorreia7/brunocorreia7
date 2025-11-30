@@ -33,6 +33,7 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 
 
 
+
 </p>
 
 
