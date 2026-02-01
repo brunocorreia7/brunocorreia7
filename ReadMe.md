@@ -38,10 +38,6 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 
 ---
 
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunocorreia7&show_icons=true&theme=default)
-
 
 ---
 
