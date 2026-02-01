@@ -18,7 +18,7 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 
 ## 🚀 Meus Projetos
 
-- 📦 <a href="https://github.com/brunocorreia7/SistemadeCadastroVersao2">**Sistema de cadastro de loja**</a>
+- 📦 <a href="https://github.com/brunocorreia7/Sistema_HelpDesk_Django">**Sistema Help Desk**</a>
 - 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**Meu Portfolio**</a>
 
 ---
@@ -29,37 +29,29 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
-
-
-
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-
-
-
-
-
-
-
 
 </p>
 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocorreia7&theme=tokyonight&hide_border=false&show_icons=true" alt="GitHub Stats"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunocorreia7&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunocorreia7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia7&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages"/>
-</p>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=brunocorreia7&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia7&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
