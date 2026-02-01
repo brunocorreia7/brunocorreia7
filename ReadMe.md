@@ -31,13 +31,6 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50"/>
-<img 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg"
-  height="50"
-  style="filter: invert(40%);"
-/>
-
-
 
 
 </p>
@@ -49,17 +42,18 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=brunocorreia7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brunocorreia7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=brunocorreia7&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.vercel.app?user=brunocorreia7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia7&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia7&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
 
 
 ---
