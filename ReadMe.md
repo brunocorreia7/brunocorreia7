@@ -40,13 +40,7 @@ Gosto de desenvolver softwares e explorar novas tecnologias.
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunocorreia7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=brunocorreia7&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunocorreia7&layout=compact&theme=tokyonight&hide_border=true)
-
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunocorreia7&show_icons=true&theme=default)
 
 
 ---
