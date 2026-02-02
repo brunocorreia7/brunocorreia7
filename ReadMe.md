@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim  
 
-Gosto de desenvolver softwares e explorar novas tecnologias.
+Gosto de desenvolver sistemas e explorar novas tecnologias.
  
 ## 🌐 Redes Sociais e Contato
 
