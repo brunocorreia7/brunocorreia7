@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim  
 
-Gosto de desenvolver sistemas e explorar novas tecnologias.
+Gosto de desenvolver sistemas, automatizar processos, e resolver problemas usando tecnologia.
  
 ## 🌐 Redes Sociais e Contato
 
