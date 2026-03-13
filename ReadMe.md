@@ -18,7 +18,7 @@ Gosto de desenvolver sistemas, automatizar processos, e resolver problemas usand
 
 ## 🚀 Meus Projetos
 
-- 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**Meu Portfolio**</a>
+- 🌐 <a href="https://brunocorreia7.github.io/meuportifolio/">**Meu Portfolio**</a>
 
 ---
 
