@@ -18,7 +18,6 @@ Gosto de desenvolver sistemas, automatizar processos, e resolver problemas usand
 
 ## 🚀 Meus Projetos
 
-- 📦 <a href="https://github.com/brunocorreia7/Sistema_HelpDesk_Django">**Sistema Help Desk**</a>
 - 🌐 <a href="https://github.com/brunocorreia7/meuportifolio">**Meu Portfolio**</a>
 
 ---
