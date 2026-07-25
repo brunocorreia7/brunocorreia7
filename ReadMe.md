@@ -20,6 +20,8 @@ Gosto de desenvolver sistemas, automatizar processos, e resolver problemas usand
 
 - 🌐 <a href="https://brunocorreia7.github.io/meuportifolio/">**Meu Portfolio**</a>
 
+- 🌐 <a href="https://github.com/brunocorreia7/Api_Blog">**Api de Blog**</a>
+
 
 ---
 
