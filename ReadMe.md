@@ -2,7 +2,7 @@
 
 Gosto de desenvolver sistemas, automatizar processos, e resolver problemas usando tecnologia.
  
-## 🌐 Redes Sociais e Contato
+## 🌐 Redes Sociais
 
 <p align="left">
   <a href="https://www.linkedin.com/in/brunocorreia7/" target="_blank">
