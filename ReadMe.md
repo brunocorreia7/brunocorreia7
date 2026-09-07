@@ -33,9 +33,6 @@ Gosto de desenvolver sistemas, automatizar processos, e resolver problemas usand
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>
 </p>
 
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="50"/>
-</p>
 
 ### 🌐 Front-end
 <p align="center">
