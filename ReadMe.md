@@ -7,8 +7,10 @@ Gosto de desenvolver sistemas, automatizar processos, e resolver problemas usand
 <p align="left">
   <a href="https://www.linkedin.com/in/brunocorreia7/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=correiadev7@gmail.com" target="_blank">
-  
+  </a>
+  <a href="mailto:correiadev7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
 </p>
 
 ---
